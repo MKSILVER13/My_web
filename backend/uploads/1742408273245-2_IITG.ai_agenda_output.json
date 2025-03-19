@@ -1,0 +1,373 @@
+{
+    "nodes": [
+        {
+            "id": "1742408273245-2_IITG.ai_agenda",
+            "level": 0,
+            "content": "Mayukh Kundu",
+            "font_size": 100,
+            "is_underlined": false
+        },
+        {
+            "id": "Introduction:",
+            "level": 1,
+            "content": "Hello everyone, I'd like to introduce myself. My name is Mayukh Kundu, and I’m a second-year B.Tech student in the CSE department. I chose the Events Head role as my first preference in the POR. Since my first year in college, I’ve been involved in many projects. I started as a member of Kriti, representing Lohit Hostel, and later became one of the managers for the Tenothron workshop module. I’ve successfully organized four three-day workshops during Techniece. Additionally, I participated in Inter IIT Tech Meet 13.0 as part of the PS Pathway High Prep team, and I have actively taken part in the Inter IIT Bootcamp as well as the PyTorch and Hugging Face workshop. These experiences have not only given me the chance to organize events but also to learn from participating in them. They have helped me develop strong skills in coordinating teams, delegating tasks, and creating an engaging, collaborative environment within the club.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Goals:",
+            "level": 1,
+            "content": "As the Events Head, my main goals are simple and focused. 1. Improve team coordination and communication. 2. Organize engaging campus-wide hackathons and workshops to spark interest in AI/ML. 3. Actively involve freshers through regular meetings, tasks, discussions, and learning sessions. 4. Keep track of ongoing projects — 2 major projects for freshers and a major project by the Heads for Techevince next year. 5. Post small quizzes regularly on the website and share monthly leaderboards on Instagram to keep everyone motivated. 6. Resume MLRW in March next year. My aim is to build a more active and collaborative AI community on campus, making AI/ML not just about career goals but also about genuine curiosity and real-world applications.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Recruitment:",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "1.  Engaging EDA Challenge:",
+            "level": 2,
+            "content": "The EDA will be mainly based on analytical thinking and data storytelling skills. On the EDA based on crime investigation data where participants will perform EDA to answer predefined questions. Includes a story-like dataset about a crime incident (CCTV footage, witness statements, police reports, flight details, suspect details, etc.) where participants need to identify the criminal. Data source: CS50xx.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  AI & Math Quiz:",
+            "level": 2,
+            "content": "Short quiz covering key concepts from  linear algebra  and  probability  (JEE-level). Apart from that there will be some  logical aptitude type of questions. Quiz will be conducted in Lecture Halls. Questions will be prepared by the team from various sources.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Bonus Task (Surprise Me If You Can!):",
+            "level": 2,
+            "content": "This is one thing I am thinking of including this time in our recruitment as an additional material to judge participants who already know a bit about ml and are passionate to explore it. We will encourage participants to create something interesting using any AI or ML tool/library of their choice. They can present a small project, a unique application, or a creative experiment. We want to see their creativity, curiosity, and initiative. We will evaluate them based on creativity, effort, execution, and passion.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "4.  Evaluation:",
+            "level": 2,
+            "content": "All participants will take part in all three tasks and there will be designated points for of the tasks. The points system will follow Kriti like structure. Main evaluation will be based on  EDA Challenge  and  AI & Math Quiz . The  Bonus Task  will provide additional points. IITG.ai AGENDA 1",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "5.  Interviews:",
+            "level": 2,
+            "content": "Shortlisted participants will be divided into four or more groups. Evaluation will focus on their knowledge, passion, and mindset towards the group.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "6.  Responsibilities as events head:",
+            "level": 2,
+            "content": "Ensure timely distribution and submission of tasks. Collaborate with others for problem statement creation, dataset preparation, and evaluation. Work with the Dev Head to update the website, share posters on Instagram, and keep the iitg.ai linktree updated. Explore collaboration opportunities with the Polygon community.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "ML.AI Course Overview:",
+            "level": 1,
+            "content": "1. Summer course on Data Science organized by IITG.ai club comprising Study materials (Videos, blogs and assignments) and Hackathons for evaluating the performance.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  Changes from This Tenure:",
+            "level": 2,
+            "content": "The course will now focus solely on ML algorithms. The content will be structured over 4 weeks, covering the following: Week 1:  Introduction to ML and basic algorithms Week 2:  Supervised learning techniques Week 3:  Unsupervised learning methods Week 4:  Advanced ML concepts and model evaluation The Deep Learning (DL) part has been removed to encourage freshers to complete the ML.AI course first and then pursue the DL Specialization (DL Spec). This change aims to address the struggle many students faced in keeping up with both DL Spec and ML.AI simultaneously.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Hackathon Details:",
+            "level": 2,
+            "content": "A Hackathon will be conducted after the course. It will be purely based on ML techniques covered in ML.AI. The Hackathon will be hosted on Kaggle.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "4.  Timeline:",
+            "level": 2,
+            "content": "Approximate duration:  25 May - 20 July 4 weeks  of coursework followed by  1 week  for the Hackathon.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "5.  Responsibilities as events head:",
+            "level": 2,
+            "content": "Oversee the smooth execution of the ML.AI course, ensuring study materials and assignments are distributed on time. Collaborate with the team to design problem statements, prepare datasets, and structure weekly content. Plan and coordinate the ML-based Hackathon on Kaggle, aligning it with the course topics. Work with the Dev Head to update the website with course details, share announcements on Instagram, and keep the iitg.ai linktree updated. Ensure active participation by promoting the course and Hackathon effectively.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "Club Activities 3rd Semester:",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "1.  Completion of DL Spec:",
+            "level": 2,
+            "content": "Monitoring completion of DL Spec at least till course 4 by the beginning of August. Course 3 of DL Spec may be excluded depending on the situation. Members will be divided into groups of 6, with a WhatsApp group created for each group, monitored by two heads. Each week we will ask them to report their progress on DL Spec. Apart from that we will also help them understand concepts that they are struggling with. The WhatsApp groups will also be used for monitoring members throughout the one-year tenure. A separate WhatsApp group with all heads will be created for better cooperation during events.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  Hands-on Session on Different Platforms:",
+            "level": 2,
+            "content": "IITG.ai AGENDA 2 Engaging hands-on sessions on how to use Kaggle, GitHub, Google Colab, and arXiv. Topics covered: saving models using various formats, loading saved models, resuming training from checkpoints, accessing documentation efficiently, and leveraging Kaggle hackathons. These hands-on sessions will run simultaneously with the mini-project assigned after completing DL Specs. Tentatively scheduled for the 3rd of August.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Research Paper Discussions:",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "Biweekly Mini Tasks and Research Paper Discussions:",
+            "level": 2,
+            "content": "Every Saturday evening, a research paper will be assigned for thorough reading. Discussions will be held the following Sunday night after the submission of the weekly AI shot task, lasting approximately 2 hours. Week-long tasks related to the discussed paper will be given, with presentations the following weekend. Tasks will include implementing famous models like YOLO, RESNET, UNET++, and CLIP, along with understanding their workings. Recruits will be taught how to read research papers and abstracts, extract meaningful insights quickly, and proceed to a thorough reading.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "4.  Responsibilities as events head:",
+            "level": 2,
+            "content": "Timely completion of the projects and actively helping them in their projects. Planning the mini course on LLM Agents with the other heads. Also helping members to maintain their CV’s.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "Club Projects:",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "1.  Overview:",
+            "level": 2,
+            "content": "We are planning to undertake  3 major projects  during the  3rd and 4th semesters . Additionally, a  small project (approximately  2-3 days ) will be assigned for basic understanding once freshers complete  DL Spec courses 1, 2, and 4 .",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  First Project:",
+            "level": 2,
+            "content": "Regarding the first project, we will float the project ideas in the 3rd week of Aug tentatively and then in the 4th week of Aug, we will start assigning the projects to them along with the mentors assigned to them. We are planning to allot them 1 month for completion of this project. Mini Project:  The mini project will be completed on or before the  4th week of August  (It ). As mentioned above during this mini project we also give them idea about how to handle different sites and it it will be over in three or four days.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Second Project:",
+            "level": 2,
+            "content": "Now, for the 2nd project, we will start this in the 1st week of Jan. Before that, in the month of Dec, we are planning to conduct a 2-week mini course on LLM Agents. So, this set of projects will mostly be focused on these topics and similarly, a 1-month time period will be allotted for completion of this project.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "Workshops and Hackathon 3rd Semester:",
+            "level": 1,
+            "content": "We plan to have a 2-day workshop after Midsemester Exams (End of September). Day 1:   PyTorch session for 3 hours on the first half. Fine-tuning LLMs using Hugging Face for 3 hours on the second half. Day 2:  Buffer time of 3 hours in the first half for doubt-clearing or topic revision. One-hour online Guest Session with some Alumni on evening (second half). A Hackathon will be conducted immediately following the workshop. It will be a small Hackathon for the participants of the workshop and will only run for about a week i.e., it will be over before 2nd week of October.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Responsibilities as Events Head:",
+            "level": 2,
+            "content": "Revive MLRW with a focus on interactive discussions led by industry professionals and researchers. Coordinate with speakers from Indian AI startups like Sarvam AI, Wadhwani AI  etc. Organize a hybrid event — offline sessions for local speakers and online ones for international startup guests. Plan and execute the internal Hackathon on Kaggle, collaborating with the heads to design problem statements and datasets.",
+            "font_size": 7.529655456542969,
+            "is_underlined": false
+        },
+        {
+            "id": "Bootcamp for Inter IIT:",
+            "level": 1,
+            "content": "As always bootcamp for inter IIT 2025 will be held during the mid of November. It will be an overnight Hackathon.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "December Works :",
+            "level": 1,
+            "content": "From around 15th of December till end of Dec, we will have a short 2 week course on Agents for familiarizing our recruits with LangChain and LangGraph to get them ready for another month long project in January.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "MLRW and Hackathon (4th Semester):",
+            "level": 1,
+            "content": "This time, I am planning to bring back MLRW with more focus on discussions by industry professionals, especially people at startups. We will invite speakers from Indian startups like Sarvam AI, Wadhwani AI and keep it in a mixed offline and online format, such that we can also bring speakers from foreign startups. After MLRW, we will organize a big Hackathon running for two weeks. The problem statement will be set by the heads in collaboration with others. It will be open to the campus, encouraging maximum participation. The Hackathon will kick off right after MLRW, ensuring momentum and engagement.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Techevince Project by Heads:",
+            "level": 1,
+            "content": "We will work on a project starting in January to present at Techevince. Freshers interested in participating can join this.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Research Work (Optional):",
+            "level": 1,
+            "content": "We will explore opportunities to publish research papers in well-known conferences, focusing on meaningful contributions to the AI community. This one is a passion of mine to bring back research focused work in IITG.ai which has been missing for a few years, but given the other things that we have planned in this tenure, this one we have kept as an optional work. But, we will try, nevertheless, to keep research and other discussions during the research paper discussions held twice a month.",
+            "font_size": 11.294483184814453,
+            "is_underlined": false
+        },
+        {
+            "id": "Summery of the agenda:",
+            "level": 1,
+            "content": "Month Recruitment Courses Projects Workshops Bootcamp MLRW Hackathon May Recruitment begins ML.AI Course starts (25 May) - - - - - June - ML.AI Course ongoing - - - - - July - ML.AI Course continues until 20 July - - - - ML.AI Hackathon (last week of July) August - DL Spec monitoring & Mini Project due by 4th - - - - IITG.ai AGENDA 4 Month Recruitment Courses Projects Workshops Bootcamp MLRW Hackathon Hands-on Session (3 August) week; First Project begins (3rd/4th week, runs ~1-2 month) September - - First Project continues 2-day Workshop (end of September) - - Workshop Hackathon starts immediately after workshop October - - First Project concludes - - - Workshop Hackathon concludes (before 2nd week) November - - - - Bootcamp for Inter IIT (mid- November) - - December - Agents Course (15–31 December) - - - - - January - - Second Project starts (1st week, runs ~1- 2 month) - - - - February - - Second Project may continue - - - - March - - - - - MLRW event (near end of March) MLRW Hackathon (2 weeks, immediately after MLRW) IITG.ai AGENDA 5",
+            "font_size": 14.118103981018066,
+            "is_underlined": false
+        }
+    ],
+    "edges": [
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Introduction:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Goals:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Recruitment:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "ML.AI Course Overview:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Club Activities 3rd Semester:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Club Projects:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Workshops and Hackathon 3rd Semester:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Bootcamp for Inter IIT:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "December Works :"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "MLRW and Hackathon (4th Semester):"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Techevince Project by Heads:"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Research Work (Optional):"
+        },
+        {
+            "from": "1742408273245-2_IITG.ai_agenda",
+            "to": "Summery of the agenda:"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "1.  Engaging EDA Challenge:"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "2.  AI & Math Quiz:"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "3.  Bonus Task (Surprise Me If You Can!):"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "4.  Evaluation:"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "5.  Interviews:"
+        },
+        {
+            "from": "Recruitment:",
+            "to": "6.  Responsibilities as events head:"
+        },
+        {
+            "from": "ML.AI Course Overview:",
+            "to": "2.  Changes from This Tenure:"
+        },
+        {
+            "from": "ML.AI Course Overview:",
+            "to": "3.  Hackathon Details:"
+        },
+        {
+            "from": "ML.AI Course Overview:",
+            "to": "4.  Timeline:"
+        },
+        {
+            "from": "ML.AI Course Overview:",
+            "to": "5.  Responsibilities as events head:"
+        },
+        {
+            "from": "Club Activities 3rd Semester:",
+            "to": "1.  Completion of DL Spec:"
+        },
+        {
+            "from": "Club Activities 3rd Semester:",
+            "to": "2.  Hands-on Session on Different Platforms:"
+        },
+        {
+            "from": "Club Activities 3rd Semester:",
+            "to": "3.  Research Paper Discussions:"
+        },
+        {
+            "from": "Club Activities 3rd Semester:",
+            "to": "Biweekly Mini Tasks and Research Paper Discussions:"
+        },
+        {
+            "from": "Club Activities 3rd Semester:",
+            "to": "4.  Responsibilities as events head:"
+        },
+        {
+            "from": "Club Projects:",
+            "to": "1.  Overview:"
+        },
+        {
+            "from": "Club Projects:",
+            "to": "2.  First Project:"
+        },
+        {
+            "from": "Club Projects:",
+            "to": "3.  Second Project:"
+        },
+        {
+            "from": "Club Projects:",
+            "to": "4.  Responsibilities as events head:"
+        },
+        {
+            "from": "Workshops and Hackathon 3rd Semester:",
+            "to": "Responsibilities as Events Head:"
+        },
+        {
+            "from": "MLRW and Hackathon (4th Semester):",
+            "to": "Responsibilities as Events Head:"
+        }
+    ]
+}

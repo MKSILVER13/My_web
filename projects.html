@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        #pdf-upload {
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        
+        #graph-container {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ddd;
+            margin-top: 20px;
+            position: relative;
+        }
+        
+        .flex-container {
+            display: flex;
+            margin-top: 20px;
+        }
+        
+        #sidebar {
+            width: 300px;
+            padding: 15px;
+            background-color: #f4f4f4;
+            border-left: 1px solid #ddd;
+            overflow-y: auto;
+            max-height: 600px;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .loader {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #3498db;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 2s linear infinite;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin-top: -15px;
+            margin-left: -15px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Projects</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="attendance.html">Attendance</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Project List</h2>
+            <p>Here are some of my projects.</p>
+            
+            <div id="pdf-upload">
+                <h3>PDF Knowledge Graph Generator</h3>
+                <p>Upload a PDF file to create an interactive knowledge graph visualization.</p>
+                
+                <form id="upload-form" enctype="multipart/form-data">
+                    <input type="file" id="pdf-file" name="pdf-file" accept="application/pdf" required>
+                    <button type="submit" id="upload-btn">Generate Knowledge Graph</button>
+                </form>
+                
+                <div class="flex-container">
+                    <div id="graph-container">
+                        <div id="loading" class="loader hidden"></div>
+                    </div>
+                    <div id="sidebar" class="hidden">
+                        <h3>Node Details</h3>
+                        <p id="node-content">Select a node to see details</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 My Website</p>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.0/vis-network.min.js"></script>
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            
+            // Show loading spinner
+            document.getElementById('loading').classList.remove('hidden');
+            document.getElementById('upload-btn').disabled = true;
+            
+            const formData = new FormData();
+            formData.append('pdf-file', document.getElementById('pdf-file').files[0]);
+            
+            fetch('http://localhost:5000/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Hide loading spinner
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('upload-btn').disabled = false;
+                
+                if (data.success) {
+                    displayGraph(data.graphData);
+                } else {
+                    alert('Failed to upload PDF: ' + (data.message || 'Unknown error'));
+                }
+            })
+            .catch(error => {
+                // Hide loading spinner
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('upload-btn').disabled = false;
+                console.error('Error:', error);
+                alert('Error uploading PDF. Please make sure the server is running.');
+            });
+        });
+
+        function displayGraph(graphData) {
+            const container = document.getElementById('graph-container');
+            const sidebar = document.getElementById('sidebar');
+            const nodeContent = document.getElementById('node-content');
+            
+            // Clear previous graph
+            container.innerHTML = '';
+            
+            const options = {
+                layout: {
+                    hierarchical: {
+                        direction: 'UD',
+                        sortMethod: 'directed',
+                        levelSeparation: 150,
+                        nodeSpacing: 150
+                    }
+                },
+                physics: {
+                    hierarchicalRepulsion: {
+                        nodeDistance: 150,
+                        springLength: 200,
+                        springConstant: 0.01,
+                        damping: 0.09
+                    },
+                    solver: 'hierarchicalRepulsion'
+                },
+                interaction: { 
+                    hover: true,
+                    navigationButtons: true,
+                    keyboard: true,
+                    tooltipDelay: 200
+                },
+                nodes: {
+                    shape: 'dot',
+                    size: 16,
+                    font: {
+                        size: 14,
+                        color: '#333'
+                    },
+                    borderWidth: 2,
+                    shadow: true
+                },
+                edges: {
+                    width: 2,
+                    smooth: {
+                        type: 'cubicBezier',
+                        forceDirection: 'vertical'
+                    },
+                    arrows: 'to'
+                }
+            };
+            
+            const network = new vis.Network(container, graphData, options);
+            
+            network.on('click', function(params) {
+                if (params.nodes.length > 0) {
+                    const nodeId = params.nodes[0];
+                    const node = graphData.nodes.find(n => n.id === nodeId);
+                    nodeContent.innerHTML = `<strong>${node.label}</strong><br><hr><p>${node.title || 'No content available'}</p>`;
+                    sidebar.classList.remove('hidden');
+                }
+            });
+            
+            network.on('stabilizationProgress', function(params) {
+                const maxWidth = 496;
+                const minWidth = 20;
+                const widthFactor = params.iterations / params.total;
+                const width = Math.max(minWidth, maxWidth * widthFactor);
+            });
+            
+            network.once('stabilizationIterationsDone', function() {
+                console.log('Graph stabilized');
+            });
+            
+            // Show the sidebar after graph is displayed
+            sidebar.classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
