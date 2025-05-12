@@ -1,0 +1,2378 @@
+[
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Bold",
+        "font_size": 23.999998092651367,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 1
+    },
+    {
+        "text": "Mayukh Kundu",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Introduction:",
+        "font": "Inter-SemiBold",
+        "font_size": 14.399999618530273,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Hello everyone, I'd like to introduce myself. My name is Mayukh Kundu, and I\u2019m a second-year",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "B.Tech student in the CSE department. I chose the Events Head role as my first preference in the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "POR.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Since my first year in college, I\u2019ve been involved in many projects. I started as a member of Kriti,",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "representing Lohit Hostel, and later became one of the managers for the Tenothron workshop",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "module. I\u2019ve successfully organized four three-day workshops during Techniece. Additionally, I",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "participated in Inter IIT Tech Meet 13.0 as part of the PS Pathway High Prep team, and I have",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "actively taken part in the Inter IIT Bootcamp as well as the PyTorch and Hugging Face workshop.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "These experiences have not only given me the chance to organize events but also to learn from",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "participating in them. They have helped me develop strong skills in coordinating teams, delegating",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "tasks, and creating an engaging, collaborative environment within the club.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Goals:",
+        "font": "Inter-SemiBold",
+        "font_size": 14.399999618530273,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "As the Events Head, my main goals are simple and focused.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "1. Improve team coordination and communication.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "2. Organize engaging campus-wide hackathons and workshops to spark interest in AI/ML.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "3. Actively involve freshers through regular meetings, tasks, discussions, and learning sessions.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "4. Keep track of ongoing projects \u2014 2 major projects for freshers and a major project by the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Heads for Techevince next year.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "5. Post small quizzes regularly on the website and share monthly leaderboards on Instagram to",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "keep everyone motivated.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "6. Resume MLRW in March next year.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "My aim is to build a more active and collaborative AI community on campus, making AI/ML not just",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "about career goals but also about genuine curiosity and real-world applications.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "AGENDA:",
+        "font": "Inter-SemiBold",
+        "font_size": 17.999998092651367,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "APRIL 2025:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 1
+    },
+    {
+        "text": "Recruitment:",
+        "font": "Inter-Bold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "Timeline : 10th April to 20th April (tentatively)",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "TASK:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "The recruitment evaluation will be based on three major tasks:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "1.  EDA:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "1",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 1
+    },
+    {
+        "text": "The EDA task will be divided into two parts, assessing participants' analytical thinking",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "and data storytelling skills.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Part 1: Crime Data Analysis",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Participants will be provided with a large dataset in the crime domain.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "They will be required to analyze the data and solve a set of pre-defined questions.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home)",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 2
+    },
+    {
+        "text": "Part 2: Case Investigation",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "participants will receive several data tables with clues to solve a mystery.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Some constraint and hints will be given for the task.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Use the provided records to piece together the clues.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Participants have to submit how they approached the problem and solved it.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "2.  Personal Website Creation:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Participants will create and deploy a personal website.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "They must showcase the results of their EDA tasks on the website.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "This website will serve as a portfolio for their projects, hackathons, and other AI-related",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "activities throughout their one-year tenure with the AI club.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "The goal is to keep their work organized and offer a professional edge for future",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "internship opportunities.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "3.  Bonus Task: Surprise Me If You Can!",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "An optional task for participants with prior knowledge or experience in ML/AI.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Participants are encouraged to create something innovative using any AI/ML tool or",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "library of their choice.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "They can present a small project, a unique application, or a creative experiment.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Evaluation will be based on creativity, effort, execution, and passion",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Evaluation:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "All participants will take part in all three tasks and there will be designated points for of the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "tasks.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "The points system will follow Kriti like structure.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "The for participants for interview will be called based on their ranking.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "In case two participants submit the same bonus task the participant submitting first will be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "awarded points.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Interviews:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Shortlisted participants will be divided into four or more groups.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "Evaluation will focus on their knowledge, passion, and mindset towards the club.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "MAY 2025 - JULY 2025:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 2
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "2",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 2
+    },
+    {
+        "text": "ML.AI Course Overview:",
+        "font": "Inter-Bold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "1. Summer course on Data Science organized by IITG.ai club comprising Study materials (Videos,",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "blogs and assignments) and Hackathons for evaluating the performance.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "2.  Changes from This Tenure:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Course Structure:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 1:  Python Essentials \u2014 Numpy, Pandas, Matplotlib",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 2:  Supervised Learning \u2014 Linear/Logistic Regression, Regularization, Na\u00efve",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Bayes, Sklearn",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 3:  Advanced ML \u2014 SVM, KMeans, KNN, PCA, Ensemble Learning",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 4:  EDA \u2014 Feature Engineering, Outlier/Missing Value Handling, XGBoost,",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "CatBoost, LightGBM",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 5:  Neural Networks \u2014 Gradient Descent, Activation Functions, Backpropagation",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Week 6 : For this week we are planning to give the participants slight introduction and",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "possibilities for further in AI.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "A glimpse into Deep Learning and Computer Vision, exploring basics like CNN. Brief",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "insights into advanced AI concepts like Diffusion Models and their possibilities.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "The content of the courses are same except i am removing the Hackathon that was",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "conducted in week 4. Instead i propose to keep an exercise notebook in each week giving",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "participants hands on experience.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Feedback:  Weekly feedback will be collected from participants to continuously refine and",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "enhance the ML.AI program for future editions.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "3.  Timeline:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Approximate duration:  25 May - 13 July",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "6 weeks  of coursework followed by  1 week  for the Hackathon.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Hackathon:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Timeline:  Starts in the middle of Week 6 of ML/AI (tentatively 4th July) and runs for one week.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 3
+    },
+    {
+        "text": "The purpose of the hackathon is to judge the effectiveness of the course i.e., how much the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "participants learned from the whole course duration. So the the problem statement will contain",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "all the from week 2 to week 5. Content of week 1 and week 6 is ignored as they are considered",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "to be basics.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Starting of DL Specs:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "At the start of Week 5, we will prompt our club members to apply for financial aid for the Deep",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Learning Specialization on Coursera, as it typically takes around 14 days for approval.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": true,
+        "page": 3
+    },
+    {
+        "text": "require approximately 40 hours, and Course 4 takes 30 hours. With the semester starting on",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "23rd July, allowing a 2-day buffer for travel and planning for 6 study hours per day, we expect",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "members to complete Courses 1, 2, and 4 by 27-30th July.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "3",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 3
+    },
+    {
+        "text": "AUGUST 2025 - SEPTEMBER 2025:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 4
+    },
+    {
+        "text": "ATM:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "On 1st August we will conduct an ATM where we will notify the members about our future plan and",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "also release an research paper for them to them to get familiar with the upcoming research talk.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Research Talks and AI with Chai:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "members present their ideas to improve their presentation skills. After each session, members",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "will try to implement, run, or fine-tune the concepts discussed. These small projects will be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "uploaded to their personal websites with strict deadline of at most 1 week.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "lake. We\u2019ll chat about the latest AI news and tech updates in a relaxed setting. This isn\u2019t just",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "about discussions \u2014 it\u2019s a space for members to unwind, share their thoughts, and openly talk",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "about any challenges they're facing with their projects or studies. It will also strengthen bonds",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "between members, keeping everyone connected and engaged with the club.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "The above activities will continue through out the semester (excluding the midsem and endsem)",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "After Selection of Inter IIT we will completely stop AI with Chai and increase the frequency for",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "research talk. If member demands for AI with Chai we can arrange it.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Mini project:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Timeline:  2nd week \u2013  end of 3rd week of August",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Presentation Date : 24th August",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "The AI with chai will scheduled to Saturdays in this kind of cases.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Description:  This two-week mini project will focus on building and understanding NN and",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "CNNs. Participants will work on a problem where they have to handle data with high-frequency",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "mismatches, so they\u2019ll learn how to manage such challenges. They will also experiment with",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "changing hyperparameters, to see how it affects the model's performance. This will give them a",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "hands-on understanding of important concepts like overfitting, training time, and how to tackle",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "real-world AI problems. Additionally, instead of using simple functions, participants will be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "encouraged to write their code using classes in Python \u2014 helping them learn more advanced",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "and organized coding techniques.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Session on Different Platforms during the mini-project:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "We will have practical sessions on how to use key platforms like Kaggle, GitHub, Google",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Colab, and arXiv.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "These sessions will cover important skills such as saving and loading models, resuming",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "training from checkpoints, accessing AI-related documentation quickly, and making the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "most of Kaggle hackathons.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "This will happen at the same time as the mini-project, starting right after participants",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "complete the DL Specialization.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Will be announced on 3rd of August.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Major Project release:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "4",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 4
+    },
+    {
+        "text": "Major Project Announcement:  The first major project will be released at the  end of August .",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Project Content:  While the exact topic is yet to be finalized, it may focus on the following areas:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "GANs",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Transformers",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Image Processing",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Timeline:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "The project will run until  4th October .",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "A  strict submission deadline of 30th September  will be maintained.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Project presentations will be held on 5th October .",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Team Structure:  Participants will be divided into  several groups , with each group assigned a",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "unique project . Every group will be  supervised by two heads  to provide guidance and ensure",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "steady progress.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "OCTOBER 2025:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 5
+    },
+    {
+        "text": "Workshops:",
+        "font": "Inter-Bold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "We plan to have a 3-day workshop after Midsemester Exams.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Timeline : 30th September - 2nd October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Day 1:   PyTorch session for 3 hours on the first half and the next 1.5 hours of second session.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Fine-tuning LLMs using Hugging Face for 1.5 hours on the second half.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Day 2:  Fine-tuning LLMs using Hugging Face for 3 hours on the first half.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "CV session for the for 3 hours on the second half.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Day 3 : CV session for the for 1.5 hours on the second half.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Buffer time of 1.5 hours in the first half for doubt-clearing or topic revision.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Online( if possible offline) Guest Session with some Alumni on second half.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "INTER IIT:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Timeline :",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Overnight Hackathon : 11th October - 18th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Initial Submission of Hackathon :  9 a.m. 13th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Final Submission of Hackathon:  EOD   18th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "PS release : Predicting to be on 3rd week of October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Report submission on PS : EOD 30th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Interviews :  1-2nd November",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Description :",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "The overall structure for Inter IIT will remain the same, with two key submission points during",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "the Overnight Hackathon:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "1.  Progress Submission:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "5",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 5
+    },
+    {
+        "text": "Date:  13th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Purpose:  To track participants\u2019 progress and ensure they are actively working on their",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "projects.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Expectation:  One must submit a draft that includes:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "A clear problem statement and project outline.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Initial codebase setup (data preprocessing, model structure, etc.).",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Any blockers or challenges faced so far.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "This submission is mandatory \u2014 even if incomplete \u2014 to help us assess their current",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "standing and offer feedback.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "2.  Final Submission:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Date:  18th October",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "This is the official deadline for project submissions. Participants should aim to submit a",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "near-complete solution, with clear documentation and a working prototype.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "NOVEMBER - DECEMBER 2025:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 6
+    },
+    {
+        "text": "Inter IIT will continue till December 17th ( tentatively) so during this time period there might be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "no major events. Though the member not selected for  Inter IIT will be encouraged to take part",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "in various Kaggle Hackathon during this period.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "December Major Project:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Announcement:  The project will be announced on 15th December.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Group Formation:  A form will be shared, and members must submit a report outlining their",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "project approaches and preferences by 18th December. Based on their reports, groups will be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "formed.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "LLM Agents",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Advanced Computer Vision",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Timeline:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Deadline:  A strict submission deadline is set for 10th January 2026.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Presentation:  Projects will be deployed and presented on 12th January 2026 .",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Every group will be supervised by two heads to ensure consistent progress and provide",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "support.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "JANUARY 2026:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 6
+    },
+    {
+        "text": "Beat that Game",
+        "font": "Inter-Bold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Timeline:  13th January - 30th January",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "Description:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "We\u2019re planning a fun and friendly competition between the GameDev & Esports Club and",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "IITG.ai.  Here\u2019s how it works:",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "6",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 6
+    },
+    {
+        "text": "The GameDev & Esports Club will design creative and challenging games \u2014 these could be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "anything from simple platformers to complex strategy games.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Once the games are built, the IITG.ai club will step in. Our goal? To develop AI models",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "capable of playing \u2014 and hopefully beating the games.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "It\u2019s a showdown \u2014 if our AI outsmarts and beats the game, we win. If the game proves too",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "tough for our AI, the GameDev team takes the crown.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Collaboration:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "This event is more than just a competition \u2014 it\u2019s a chance for both clubs to grow. The GameDev",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "team will build AI-resistant game logic, while our team will develop AI models to strategize and",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "adapt. It\u2019s a fun blend of creativity, coding, and competition.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "FEBRUARY 2026 - MARCH 2026:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": true,
+        "page": 7
+    },
+    {
+        "text": "February Major Project( Know your Enemy):",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Announcement : The project will be announced on 31st January.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "with other IITs and collaboratively decide on project topics. Each IIT will select one team per",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "project, and the final projects will be mutually judged by the other IIT clubs \u2014 no IIT will judge",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "its own project. This may not be Inter IIT level but it will give the members a taste of it and it also",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "encourage them in this project.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Collaboration : We may collaborate with other clubs of IITG.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Group Formation : A form will be shared, and members must submit a report outlining their",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "project approaches and preferences by 6th February. Based on these reports, groups will be",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "formed.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Project Content : The topics will be finalized in a joint meeting before Alcheringa.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Timeline:",
+        "font": "Inter-Bold",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Deadline : A strict submission deadline is set for 8th March 2026. With and video of the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "team presenting their project.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Results : 13th March",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "MLRW and Hackathon (4th Semester):",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "This time, I am planning to bring back MLRW with more focus on discussions by industry",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "professionals, especially people at startups.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "We will invite speakers from Indian startups like Sarvam AI, Wadhwani AI and keep it in a mixed",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "offline and online format, such that we can also bring speakers from foreign startups.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "After MLRW, we will organize a big Hackathon running for two weeks.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "The problem statement will be set by the heads in collaboration with others.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "It will be open to the campus, encouraging maximum participation.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "The Hackathon will kick off right after MLRW, ensuring momentum and engagement.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Timeline :",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Workshops and Lecture series : 14-16th March",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "7",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 7
+    },
+    {
+        "text": "Hackathon : 17-31st March",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Techevince Project:",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Freshers will work on separate application-based and technical projects starting in December.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "These projects are different from the December Project, but selection will happen through the",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "same form.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Club heads and core team members will guide freshers throughout.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Since some projects may need extra resources, we\u2019ll plan the budget carefully.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "The aim is to finish these projects by mid-March, before Techevince.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Completing them will highlight the club\u2019s skills in building innovative AI solutions.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Club Member Tracking Website:",
+        "font": "Inter-Bold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Each member will have a personal profile on the club website, linked to their projects and work.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "The site will track the number of events attended and the total events held, with  AI with Chai",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "excluded from the count.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Members will be ranked based on attendance, encouraging active participation.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Attendance will be recorded by club heads using a simple portal.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "The club events and the projects done in this tenure will be shown here.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "software licenses, exclusive AI learning resources, or even a reward of their choice \u2014 within a",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "reasonable range, like books, AI course subscriptions, or tech accessories.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "Research Work (Optional):",
+        "font": "Inter-SemiBold",
+        "font_size": 11.999999046325684,
+        "is_bold": true,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "We will explore opportunities to publish research papers in well-known conferences, focusing",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "on meaningful contributions to the AI community.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "This one is a passion of mine to bring back research focused work in IITG.ai which has been",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": true,
+        "page": 8
+    },
+    {
+        "text": "missing for a few years, but given the other things that we have planned in this tenure, this one",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "we have kept as an optional work. But, we will try, nevertheless, to keep research and other",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "discussions during the research paper discussions held\u00a0twice\u00a0a\u00a0month.",
+        "font": "Inter-Regular",
+        "font_size": 9.59999942779541,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "IITG.ai AGENDA",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    },
+    {
+        "text": "8",
+        "font": "Inter-Regular",
+        "font_size": 7.5,
+        "is_bold": false,
+        "is_underlined": false,
+        "page": 8
+    }
+]
