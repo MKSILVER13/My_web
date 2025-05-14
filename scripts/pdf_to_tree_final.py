@@ -362,7 +362,7 @@ class PDFKnowledgeGraphV2:
             for node_id in list(self.graph.nodes()): # Iterate over a copy for safe modification
                 if "content" in self.graph.nodes[node_id]:
                     content = self.graph.nodes[node_id]["content"].strip()
-                    self.graph.nodes[node_id]["content"] = content if content else "(No description)"
+                    self.graph.nodes[node_id]["content"] = content if content else node_id
             
             # --- Leaf Node Merging for Normal Text Tree ---
             parents_and_their_leaf_children_to_merge = []
@@ -469,7 +469,7 @@ class PDFKnowledgeGraphV2:
             for node_id in self.graph.nodes():
                 if "content" in self.graph.nodes[node_id]:
                     content = self.graph.nodes[node_id]["content"].strip()
-                    self.graph.nodes[node_id]["content"] = content if content else "(No description)"
+                    self.graph.nodes[node_id]["content"] = content if content else node_id
         except Exception as e:
             print(f"Error building knowledge graph: {e}")
             import traceback

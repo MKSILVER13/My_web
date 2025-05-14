@@ -37,7 +37,7 @@ router.post('/', upload.single('pdf-file'), async (req, res) => {
     const htmlOutputPath = path.join(uploadsDir, `${baseName}_output.html`);
     
     // Get path to the Python script (in parent directory)
-    const pythonScriptPath = path.join(__dirname, '../../pdf_to.py');
+    const pythonScriptPath = path.join(__dirname, '../../scripts/pdf_to_tree_final.py');
     
     console.log(`Processing PDF file: ${filePath}`);
     console.log(`Python script path: ${pythonScriptPath}`);
