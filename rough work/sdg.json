@@ -1,0 +1,1230 @@
+{
+    "nodes": [
+        {
+            "id": "iitg",
+            "level": 0,
+            "content": "IITG.ai AGENDA",
+            "font_size": 100,
+            "is_underlined": false
+        },
+        {
+            "id": "iitg_OCR",
+            "level": 0,
+            "content": "OCR Content",
+            "font_size": 100,
+            "is_underlined": false
+        },
+        {
+            "id": "Introduction: (text p1)",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Goals: (text p1)",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "APRIL 2025: (text p1)",
+            "level": 1,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": true
+        },
+        {
+            "id": "Recruitment: (text p1)",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": false
+        },
+        {
+            "id": "Timeline : 10th April to 20th April (tentatively) (text p1)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "TASK: (text p1)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "The recruitment evaluation will be based on three major tasks: (text p1)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "1.  EDA: (text p1)",
+            "level": 3,
+            "content": "IITG.ai AGENDA 1 The EDA task will be divided into two parts, assessing participants' analytical thinking",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "and data storytelling skills. (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Part 1: Crime Data Analysis (text p2)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Part 2: Case Investigation (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  Personal Website Creation: (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Bonus Task: Surprise Me If You Can! (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Evaluation: (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Interviews: (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May. (text p2)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "MAY 2025 - JULY 2025: (text p2)",
+            "level": 3,
+            "content": "IITG.ai AGENDA 2",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Week 2:  Supervised Learning — Linear/Logistic Regression, Regularization, Naïve (text p3)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Bayes, Sklearn (text p3)",
+            "level": 5,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Week 4:  EDA — Feature Engineering, Outlier/Missing Value Handling, XGBoost, (text p3)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "CatBoost, LightGBM (text p3)",
+            "level": 5,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Week 6 : For this week we are planning to give the participants slight introduction and (text p3)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Feedback:  Weekly feedback will be collected from participants to continuously refine and (text p3)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "enhance the ML.AI program for future editions. (text p3)",
+            "level": 5,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Starting of DL Specs: (text p3)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)",
+            "level": 5,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "members to complete Courses 1, 2, and 4 by 27-30th July. (text p3)",
+            "level": 6,
+            "content": "IITG.ai AGENDA 3",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "AUGUST 2025 - SEPTEMBER 2025: (text p4)",
+            "level": 7,
+            "content": "(No description)",
+            "font_size": 7.5,
+            "is_underlined": true
+        },
+        {
+            "id": "ATM: (text p4)",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": false
+        },
+        {
+            "id": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let (text p4)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the (text p4)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Presentation Date : 24th August (text p4)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "The AI with chai will scheduled to Saturdays in this kind of cases. (text p4)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Description:  This two-week mini project will focus on building and understanding NN and (text p4)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Session on Different Platforms during the mini-project: (text p4)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "unique project . Every group will be  supervised by two heads  to provide guidance and ensure (text p5)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "steady progress. (text p5)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Workshops: (text p5)",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": false
+        },
+        {
+            "id": "Day 1:   PyTorch session for 3 hours on the first half and the next 1.5 hours of second session. (text p5)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Fine-tuning LLMs using Hugging Face for 1.5 hours on the second half. (text p5)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Day 2:  Fine-tuning LLMs using Hugging Face for 3 hours on the first half. (text p5)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "CV session for the for 3 hours on the second half. (text p5)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Day 3 : CV session for the for 1.5 hours on the second half. (text p5)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Description : (text p5)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Purpose:  To track participants’ progress and ensure they are actively working on their (text p6)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "projects. (text p6)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Expectation:  One must submit a draft that includes: (text p6)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Date:  18th October (text p6)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "NOVEMBER - DECEMBER 2025: (text p6)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Group Formation:  A form will be shared, and members must submit a report outlining their (text p6)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on: (text p6)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Presentation:  Projects will be deployed and presented on 12th January 2026 . (text p6)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Beat that Game (text p6)",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": false
+        },
+        {
+            "id": "IITG.ai.  Here’s how it works: (text p6)",
+            "level": 3,
+            "content": "IITG.ai AGENDA 6 The GameDev & Esports Club will design creative and challenging games — these could be",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Collaboration: (text p7)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "February Major Project( Know your Enemy): (text p7)",
+            "level": 2,
+            "content": "(No description)",
+            "font_size": 12.0,
+            "is_underlined": false
+        },
+        {
+            "id": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect (text p7)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Group Formation : A form will be shared, and members must submit a report outlining their (text p7)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Deadline : A strict submission deadline is set for 8th March 2026. With and video of the (text p7)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "team presenting their project. (text p7)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "MLRW and Hackathon (4th Semester): (text p7)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Techevince Project: (text p8)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Club Member Tracking Website: (text p8)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Each member will have a personal profile on the club website, linked to their projects and work. (text p8)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "The site will track the number of events attended and the total events held, with  AI with Chai (text p8)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium (text p8)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Research Work (Optional): (text p8)",
+            "level": 3,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "This one is a passion of mine to bring back research focused work in IITG.ai which has been (text p8)",
+            "level": 4,
+            "content": "(No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "iitg_merged_cluster",
+            "level": 1,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Introduction: (text p1)_merged_cluster",
+            "level": 2,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Goals: (text p1)_merged_cluster",
+            "level": 2,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Part 1: Crime Data Analysis (text p2)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Part 2: Case Investigation (text p2)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "2.  Personal Website Creation: (text p2)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "3.  Bonus Task: Surprise Me If You Can! (text p2)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Evaluation: (text p2)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May. (text p2)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "MAY 2025 - JULY 2025: (text p2)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Week 6 : For this week we are planning to give the participants slight introduction and (text p3)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Starting of DL Specs: (text p3)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)_merged_cluster",
+            "level": 6,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "ATM: (text p4)_merged_cluster",
+            "level": 3,
+            "content": "(No description) (No description) (No description) (No description) (No description) IITG.ai AGENDA 4 (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let (text p4)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the (text p4)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Description:  This two-week mini project will focus on building and understanding NN and (text p4)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Session on Different Platforms during the mini-project: (text p4)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Workshops: (text p5)_merged_cluster",
+            "level": 3,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description) IITG.ai AGENDA 5 (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "Day 3 : CV session for the for 1.5 hours on the second half. (text p5)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Description : (text p5)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Expectation:  One must submit a draft that includes: (text p6)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Date:  18th October (text p6)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "NOVEMBER - DECEMBER 2025: (text p6)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Group Formation:  A form will be shared, and members must submit a report outlining their (text p6)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on: (text p6)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Presentation:  Projects will be deployed and presented on 12th January 2026 . (text p6)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Beat that Game (text p6)_merged_cluster",
+            "level": 3,
+            "content": "(No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": true
+        },
+        {
+            "id": "IITG.ai.  Here’s how it works: (text p6)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Collaboration: (text p7)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "February Major Project( Know your Enemy): (text p7)_merged_cluster",
+            "level": 3,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) IITG.ai AGENDA 7 (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect (text p7)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Group Formation : A form will be shared, and members must submit a report outlining their (text p7)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "MLRW and Hackathon (4th Semester): (text p7)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Techevince Project: (text p8)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "The site will track the number of events attended and the total events held, with  AI with Chai (text p8)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description) (No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium (text p8)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "Research Work (Optional): (text p8)_merged_cluster",
+            "level": 4,
+            "content": "(No description) (No description)",
+            "font_size": 9.6,
+            "is_underlined": false
+        },
+        {
+            "id": "This one is a passion of mine to bring back research focused work in IITG.ai which has been (text p8)_merged_cluster",
+            "level": 5,
+            "content": "(No description) (No description) IITG.ai AGENDA 8",
+            "font_size": 9.6,
+            "is_underlined": false
+        }
+    ],
+    "edges": [
+        {
+            "from": "iitg",
+            "to": "Introduction: (text p1)"
+        },
+        {
+            "from": "iitg",
+            "to": "Goals: (text p1)"
+        },
+        {
+            "from": "iitg",
+            "to": "APRIL 2025: (text p1)"
+        },
+        {
+            "from": "iitg",
+            "to": "iitg_merged_cluster"
+        },
+        {
+            "from": "Introduction: (text p1)",
+            "to": "Introduction: (text p1)_merged_cluster"
+        },
+        {
+            "from": "Goals: (text p1)",
+            "to": "Goals: (text p1)_merged_cluster"
+        },
+        {
+            "from": "APRIL 2025: (text p1)",
+            "to": "Recruitment: (text p1)"
+        },
+        {
+            "from": "APRIL 2025: (text p1)",
+            "to": "ATM: (text p4)"
+        },
+        {
+            "from": "APRIL 2025: (text p1)",
+            "to": "Workshops: (text p5)"
+        },
+        {
+            "from": "APRIL 2025: (text p1)",
+            "to": "Beat that Game (text p6)"
+        },
+        {
+            "from": "APRIL 2025: (text p1)",
+            "to": "February Major Project( Know your Enemy): (text p7)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "Timeline : 10th April to 20th April (tentatively) (text p1)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "TASK: (text p1)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "1.  EDA: (text p1)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "Part 1: Crime Data Analysis (text p2)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "MAY 2025 - JULY 2025: (text p2)"
+        },
+        {
+            "from": "Recruitment: (text p1)",
+            "to": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)"
+        },
+        {
+            "from": "TASK: (text p1)",
+            "to": "The recruitment evaluation will be based on three major tasks: (text p1)"
+        },
+        {
+            "from": "1.  EDA: (text p1)",
+            "to": "and data storytelling skills. (text p2)"
+        },
+        {
+            "from": "Part 1: Crime Data Analysis (text p2)",
+            "to": "Part 1: Crime Data Analysis (text p2)_merged_cluster"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "Part 2: Case Investigation (text p2)"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "2.  Personal Website Creation: (text p2)"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "3.  Bonus Task: Surprise Me If You Can! (text p2)"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "Evaluation: (text p2)"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "Interviews: (text p2)"
+        },
+        {
+            "from": "Dataset : FBI crimes (https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home) (text p2)",
+            "to": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May. (text p2)"
+        },
+        {
+            "from": "Part 2: Case Investigation (text p2)",
+            "to": "Part 2: Case Investigation (text p2)_merged_cluster"
+        },
+        {
+            "from": "2.  Personal Website Creation: (text p2)",
+            "to": "2.  Personal Website Creation: (text p2)_merged_cluster"
+        },
+        {
+            "from": "3.  Bonus Task: Surprise Me If You Can! (text p2)",
+            "to": "3.  Bonus Task: Surprise Me If You Can! (text p2)_merged_cluster"
+        },
+        {
+            "from": "Evaluation: (text p2)",
+            "to": "Evaluation: (text p2)_merged_cluster"
+        },
+        {
+            "from": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May. (text p2)",
+            "to": "Timeline : Tentatively 19th and 20th April, Alternative second Saturday and Sunday of May. (text p2)_merged_cluster"
+        },
+        {
+            "from": "MAY 2025 - JULY 2025: (text p2)",
+            "to": "Week 2:  Supervised Learning — Linear/Logistic Regression, Regularization, Naïve (text p3)"
+        },
+        {
+            "from": "MAY 2025 - JULY 2025: (text p2)",
+            "to": "Week 4:  EDA — Feature Engineering, Outlier/Missing Value Handling, XGBoost, (text p3)"
+        },
+        {
+            "from": "MAY 2025 - JULY 2025: (text p2)",
+            "to": "Week 6 : For this week we are planning to give the participants slight introduction and (text p3)"
+        },
+        {
+            "from": "MAY 2025 - JULY 2025: (text p2)",
+            "to": "Feedback:  Weekly feedback will be collected from participants to continuously refine and (text p3)"
+        },
+        {
+            "from": "MAY 2025 - JULY 2025: (text p2)",
+            "to": "MAY 2025 - JULY 2025: (text p2)_merged_cluster"
+        },
+        {
+            "from": "Week 2:  Supervised Learning — Linear/Logistic Regression, Regularization, Naïve (text p3)",
+            "to": "Bayes, Sklearn (text p3)"
+        },
+        {
+            "from": "Week 4:  EDA — Feature Engineering, Outlier/Missing Value Handling, XGBoost, (text p3)",
+            "to": "CatBoost, LightGBM (text p3)"
+        },
+        {
+            "from": "Week 6 : For this week we are planning to give the participants slight introduction and (text p3)",
+            "to": "Week 6 : For this week we are planning to give the participants slight introduction and (text p3)_merged_cluster"
+        },
+        {
+            "from": "Feedback:  Weekly feedback will be collected from participants to continuously refine and (text p3)",
+            "to": "enhance the ML.AI program for future editions. (text p3)"
+        },
+        {
+            "from": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)",
+            "to": "Starting of DL Specs: (text p3)"
+        },
+        {
+            "from": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)",
+            "to": "Theme : The hackathon will be totally based on the ML techniques covered in the ML.AI course. (text p3)_merged_cluster"
+        },
+        {
+            "from": "Starting of DL Specs: (text p3)",
+            "to": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)"
+        },
+        {
+            "from": "Starting of DL Specs: (text p3)",
+            "to": "Starting of DL Specs: (text p3)_merged_cluster"
+        },
+        {
+            "from": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)",
+            "to": "members to complete Courses 1, 2, and 4 by 27-30th July. (text p3)"
+        },
+        {
+            "from": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)",
+            "to": "Members will begin the DL Specialization after completing the ML.AI course. Courses 1 and 2 (text p3)_merged_cluster"
+        },
+        {
+            "from": "members to complete Courses 1, 2, and 4 by 27-30th July. (text p3)",
+            "to": "AUGUST 2025 - SEPTEMBER 2025: (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "Presentation Date : 24th August (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "Description:  This two-week mini project will focus on building and understanding NN and (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "Session on Different Platforms during the mini-project: (text p4)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "unique project . Every group will be  supervised by two heads  to provide guidance and ensure (text p5)"
+        },
+        {
+            "from": "ATM: (text p4)",
+            "to": "ATM: (text p4)_merged_cluster"
+        },
+        {
+            "from": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let (text p4)",
+            "to": "Research Talk:  A 2-hour session every two weeks where we discuss research papers and let (text p4)_merged_cluster"
+        },
+        {
+            "from": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the (text p4)",
+            "to": "AI with Chai:  A fun, casual meetup every other Sunday (even Sundays) at the tea stall near the (text p4)_merged_cluster"
+        },
+        {
+            "from": "Presentation Date : 24th August (text p4)",
+            "to": "The AI with chai will scheduled to Saturdays in this kind of cases. (text p4)"
+        },
+        {
+            "from": "Description:  This two-week mini project will focus on building and understanding NN and (text p4)",
+            "to": "Description:  This two-week mini project will focus on building and understanding NN and (text p4)_merged_cluster"
+        },
+        {
+            "from": "Session on Different Platforms during the mini-project: (text p4)",
+            "to": "Session on Different Platforms during the mini-project: (text p4)_merged_cluster"
+        },
+        {
+            "from": "unique project . Every group will be  supervised by two heads  to provide guidance and ensure (text p5)",
+            "to": "steady progress. (text p5)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Day 1:   PyTorch session for 3 hours on the first half and the next 1.5 hours of second session. (text p5)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Day 2:  Fine-tuning LLMs using Hugging Face for 3 hours on the first half. (text p5)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Day 3 : CV session for the for 1.5 hours on the second half. (text p5)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Description : (text p5)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Purpose:  To track participants’ progress and ensure they are actively working on their (text p6)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Expectation:  One must submit a draft that includes: (text p6)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Date:  18th October (text p6)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "NOVEMBER - DECEMBER 2025: (text p6)"
+        },
+        {
+            "from": "Workshops: (text p5)",
+            "to": "Workshops: (text p5)_merged_cluster"
+        },
+        {
+            "from": "Day 1:   PyTorch session for 3 hours on the first half and the next 1.5 hours of second session. (text p5)",
+            "to": "Fine-tuning LLMs using Hugging Face for 1.5 hours on the second half. (text p5)"
+        },
+        {
+            "from": "Day 2:  Fine-tuning LLMs using Hugging Face for 3 hours on the first half. (text p5)",
+            "to": "CV session for the for 3 hours on the second half. (text p5)"
+        },
+        {
+            "from": "Day 3 : CV session for the for 1.5 hours on the second half. (text p5)",
+            "to": "Day 3 : CV session for the for 1.5 hours on the second half. (text p5)_merged_cluster"
+        },
+        {
+            "from": "Description : (text p5)",
+            "to": "Description : (text p5)_merged_cluster"
+        },
+        {
+            "from": "Purpose:  To track participants’ progress and ensure they are actively working on their (text p6)",
+            "to": "projects. (text p6)"
+        },
+        {
+            "from": "Expectation:  One must submit a draft that includes: (text p6)",
+            "to": "Expectation:  One must submit a draft that includes: (text p6)_merged_cluster"
+        },
+        {
+            "from": "Date:  18th October (text p6)",
+            "to": "Date:  18th October (text p6)_merged_cluster"
+        },
+        {
+            "from": "NOVEMBER - DECEMBER 2025: (text p6)",
+            "to": "Group Formation:  A form will be shared, and members must submit a report outlining their (text p6)"
+        },
+        {
+            "from": "NOVEMBER - DECEMBER 2025: (text p6)",
+            "to": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on: (text p6)"
+        },
+        {
+            "from": "NOVEMBER - DECEMBER 2025: (text p6)",
+            "to": "Presentation:  Projects will be deployed and presented on 12th January 2026 . (text p6)"
+        },
+        {
+            "from": "NOVEMBER - DECEMBER 2025: (text p6)",
+            "to": "NOVEMBER - DECEMBER 2025: (text p6)_merged_cluster"
+        },
+        {
+            "from": "Group Formation:  A form will be shared, and members must submit a report outlining their (text p6)",
+            "to": "Group Formation:  A form will be shared, and members must submit a report outlining their (text p6)_merged_cluster"
+        },
+        {
+            "from": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on: (text p6)",
+            "to": "Project Content:  The exact topics are yet to be finalized, but the projects may focus on: (text p6)_merged_cluster"
+        },
+        {
+            "from": "Presentation:  Projects will be deployed and presented on 12th January 2026 . (text p6)",
+            "to": "Presentation:  Projects will be deployed and presented on 12th January 2026 . (text p6)_merged_cluster"
+        },
+        {
+            "from": "Beat that Game (text p6)",
+            "to": "IITG.ai.  Here’s how it works: (text p6)"
+        },
+        {
+            "from": "Beat that Game (text p6)",
+            "to": "Collaboration: (text p7)"
+        },
+        {
+            "from": "Beat that Game (text p6)",
+            "to": "Beat that Game (text p6)_merged_cluster"
+        },
+        {
+            "from": "IITG.ai.  Here’s how it works: (text p6)",
+            "to": "IITG.ai.  Here’s how it works: (text p6)_merged_cluster"
+        },
+        {
+            "from": "Collaboration: (text p7)",
+            "to": "Collaboration: (text p7)_merged_cluster"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect (text p7)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Group Formation : A form will be shared, and members must submit a report outlining their (text p7)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Deadline : A strict submission deadline is set for 8th March 2026. With and video of the (text p7)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "MLRW and Hackathon (4th Semester): (text p7)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Techevince Project: (text p8)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Club Member Tracking Website: (text p8)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "The site will track the number of events attended and the total events held, with  AI with Chai (text p8)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium (text p8)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "Research Work (Optional): (text p8)"
+        },
+        {
+            "from": "February Major Project( Know your Enemy): (text p7)",
+            "to": "February Major Project( Know your Enemy): (text p7)_merged_cluster"
+        },
+        {
+            "from": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect (text p7)",
+            "to": "Inter-IIT Competition:  This project will be a friendly competition between IITs. We will connect (text p7)_merged_cluster"
+        },
+        {
+            "from": "Group Formation : A form will be shared, and members must submit a report outlining their (text p7)",
+            "to": "Group Formation : A form will be shared, and members must submit a report outlining their (text p7)_merged_cluster"
+        },
+        {
+            "from": "Deadline : A strict submission deadline is set for 8th March 2026. With and video of the (text p7)",
+            "to": "team presenting their project. (text p7)"
+        },
+        {
+            "from": "MLRW and Hackathon (4th Semester): (text p7)",
+            "to": "MLRW and Hackathon (4th Semester): (text p7)_merged_cluster"
+        },
+        {
+            "from": "Techevince Project: (text p8)",
+            "to": "Techevince Project: (text p8)_merged_cluster"
+        },
+        {
+            "from": "Club Member Tracking Website: (text p8)",
+            "to": "Each member will have a personal profile on the club website, linked to their projects and work. (text p8)"
+        },
+        {
+            "from": "The site will track the number of events attended and the total events held, with  AI with Chai (text p8)",
+            "to": "The site will track the number of events attended and the total events held, with  AI with Chai (text p8)_merged_cluster"
+        },
+        {
+            "from": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium (text p8)",
+            "to": "Top-ranking members may receive rewards like API credits for ChatGPT, Claude ,  premium (text p8)_merged_cluster"
+        },
+        {
+            "from": "Research Work (Optional): (text p8)",
+            "to": "This one is a passion of mine to bring back research focused work in IITG.ai which has been (text p8)"
+        },
+        {
+            "from": "Research Work (Optional): (text p8)",
+            "to": "Research Work (Optional): (text p8)_merged_cluster"
+        },
+        {
+            "from": "This one is a passion of mine to bring back research focused work in IITG.ai which has been (text p8)",
+            "to": "This one is a passion of mine to bring back research focused work in IITG.ai which has been (text p8)_merged_cluster"
+        }
+    ]
+}

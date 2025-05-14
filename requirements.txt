@@ -1,0 +1,5 @@
+networkx
+PyMuPDF
+Pillow
+pytesseract
+pyvis

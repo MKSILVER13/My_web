@@ -4,12 +4,72 @@ import fitz  # PyMuPDF
 import os
 import re
 import sys
-import json  # new import for JSON output
+import json
+import pytesseract
+from PIL import Image
 
-class PDFKnowledgeGraphV2:
-    def __init__(self):
-        self.graph = nx.DiGraph()
+class buffer:
+    def __init__(self, pdf_path):
+        self.pdf_path = pdf_path
+        self.graph = nx.DiGraph() # Initialize the graph here
+        self.data = self.extract_structured_text_from_pdf(self.pdf_path)
+
+
+    def ocr_force(self, doc):
+        """
+        Process a PDF document and apply OCR to pages with no text blocks.
+        For pages that need OCR, creates a structured text dictionary.
+        For pages with existing text, keeps the original page.
+        Returns a list containing processed pages.
+        """
+        final_doc = []
+        page_num = 0
+        for page in doc:
+            page_num += 1
+            full_ocr_text = ""
+            # Check if the page has text blocks
+            need_ocr = False
+            blocks = page.get_text("dict")["blocks"]
+            if not blocks: # Check if blocks is empty
+                need_ocr = True
+            if need_ocr:
+                pixmap = page.get_pixmap()
+                img = Image.frombytes("RGB", [pixmap.width, pixmap.height], pixmap.samples)
+                try:
+                    page_text = pytesseract.image_to_string(img)
+                    full_ocr_text += f"==Start of OCR for page {page_num}==\n" # Corrected page_num
+                    full_ocr_text += page_text
+                    full_ocr_text += f"\n==End of OCR for page {page_num}==\n\n" # Corrected page_num
+                    # print(f"Page {page_num} OCR text: {page_text}")
+                    
+                    # Create a structured representation of the OCR text
+                    ocr_result = {
+                        "text": page_text,
+                        "font": "OCR-detected",
+                        "font_size": 10.0,  # Default font size
+                        "is_bold": False,   # We can't detect bold with basic OCR
+                        "is_underlined": False,  # We can't detect underlines with basic OCR
+                        "page": page_num,
+                        "source": "ocr"     # Mark as OCR source for reference
+                    }
+                    final_doc.append(ocr_result)
+                except Exception as e:
+                    print(f"Error during OCR on page {page_num}: {e}") # Corrected page_num
+                    # Add an empty result to keep page ordering consistent
+                    final_doc.append({
+                        "text": f"[OCR ERROR on page {page_num}]", # Corrected page_num
+                        "font": "OCR-error",
+                        "font_size": 10.0,
+                        "is_bold": False,
+                        "is_underlined": False,
+                        "page": page_num,
+                        "source": "ocr-error"
+                    })
+            else:
+                final_doc.append(page)
         
+        return final_doc
+
     def extract_structured_text_from_pdf(self, pdf_path):
         """
         Extract text from PDF with formatting information using PyMuPDF.
@@ -20,13 +80,18 @@ class PDFKnowledgeGraphV2:
             # print(f"Opening PDF file: {pdf_path}")
             doc = fitz.open(pdf_path)
             # print(f"PDF has {len(doc)} pages")
+
+            # Process document with OCR for pages that need it
+            processed_doc = self.ocr_force(doc) # Called ocr_force using self
             
             structured_text = []
             
             # First pass: determine maximum font size for reference
             max_font_size = 0
-            for page in doc:
-                blocks = page.get_text("dict")["blocks"]
+            # Iterate through the original document for font size calculation
+            for page_idx in range(len(doc)):
+                page_content = doc.load_page(page_idx) # Load page explicitly
+                blocks = page_content.get_text("dict")["blocks"]
                 for block in blocks:
                     if "lines" in block:
                         for line in block["lines"]:
@@ -35,21 +100,36 @@ class PDFKnowledgeGraphV2:
             # print(f"Maximum font size detected: {max_font_size}")
             
             # Process each page: extract text spans and detect underlines via drawing objects.
-            for page_num, page in enumerate(doc):
+            for page_num_idx, item in enumerate(processed_doc): # Renamed page_num to page_num_idx to avoid conflict
+                # Check if this is an OCR result (dictionary) or a regular page
+                if isinstance(item, dict) and "source" in item and item["source"] in ["ocr", "ocr-error"]:
+                    # This is an OCR result, add it directly to structured text
+                    structured_text.append(item)
+                    continue
+                
+                # This is a regular page, process it normally
+                # The 'item' is a fitz.Page object here, from the original doc if not OCRed,
+                # or from processed_doc if it was kept as is.
+                # We need to ensure 'item' is a page object to call get_drawings() and get_text("dict")
+                # If 'item' came from ocr_force and was not OCRed, it's already a fitz.Page.
+                # If 'item' is an OCR dict, the 'continue' above handles it.
+                page_content_to_process = item # item is already a page object here
+
                 # Get drawing objects and filter for those that appear to be underlines.
-                drawings = page.get_drawings()
+                drawings = page_content_to_process.get_drawings()
                 underline_rects = []
                 for d in drawings:
                     # Look for filled rectangles (type 'f') which might be drawn as underlines.
                     if d.get("type") == "f":
-                        for item in d.get("items", []):
-                            if item[0] == "re":
-                                rect = item[1]
+                        # Iterate through items within the drawing command
+                        for drawing_item in d.get("items", []): # Renamed item to drawing_item
+                            if drawing_item[0] == "re": # Check if it's a rectangle
+                                rect = drawing_item[1] # Get the fitz.Rect object
                                 # Heuristic: if the rectangle is very short in height, consider it an underline.
                                 if rect.height < 5:
                                     underline_rects.append(rect)
                 
-                blocks = page.get_text("dict")["blocks"]
+                blocks = page_content_to_process.get_text("dict")["blocks"]
                 for block in blocks:
                     if "lines" in block:
                         for line in block["lines"]:
@@ -96,7 +176,8 @@ class PDFKnowledgeGraphV2:
                                     "font_size": font_size,
                                     "is_bold": is_bold,
                                     "is_underlined": is_underlined,
-                                    "page": page_num + 1
+                                    "page": page_content_to_process.number + 1, # Use page number from fitz.Page
+                                    "source": "text"  # Mark as normal text extraction
                                 })
             
             # print(f"Extracted {len(structured_text)} text elements")
@@ -104,7 +185,6 @@ class PDFKnowledgeGraphV2:
         except Exception as e:
             # print(f"Error extracting PDF text: {e}")
             raise e
-
     def build_knowledge_graph(self, elements, pdf_name):
         """
         Build a knowledge graph from the structured text elements.
@@ -240,110 +320,10 @@ class PDFKnowledgeGraphV2:
         except Exception as e:
             print(f"Error building knowledge graph: {e}")
             raise e
-
-    def visualize(self, output_file):
-        """
-        Visualize the knowledge graph using PyVis with color coding:
-          - Different colors for different levels.
-          - Underlined nodes get a special gold color.
-        """
-        try:
-            net = Network(height="750px", width="100%", directed=True)
-            colors = {
-                0: '#ff0000',  # Root - Red
-                1: '#00cc00',  # Level 1 - Green
-                2: '#0099ff',  # Level 2 - Blue
-                3: '#9933ff',  # Level 3 - Purple
-                4: '#ff9900',  # Level 4 - Orange
-            }
-            for node in self.graph.nodes():
-                attrs = self.graph.nodes[node]
-                level = attrs.get("level", 0)
-                color = colors.get(level, "#cccccc")
-                if attrs.get("is_underlined", False):
-                    color = "#FFD700"  # Gold for underlined nodes
-                label = node if len(node) <= 30 else node[:30] + "..."
-                content = attrs.get("content", "")
-                title = f"{node}\n\n{content}" if content else node
-                net.add_node(node, label=label, title=title, color=color)
-            for edge in self.graph.edges():
-                net.add_edge(edge[0], edge[1])
-            net.set_options("""
-            {
-              "physics": {
-                "hierarchicalRepulsion": {
-                  "centralGravity": 0.0,
-                  "springLength": 150,
-                  "springConstant": 0.01,
-                  "nodeDistance": 120
-                },
-                "solver": "hierarchicalRepulsion",
-                "stabilization": {
-                  "iterations": 1000
-                }
-              },
-              "layout": {
-                "hierarchical": {
-                  "enabled": true,
-                  "direction": "UD",
-                  "sortMethod": "directed",
-                  "levelSeparation": 150
-                }
-              }
-            }
-            """)
-            net.write_html(output_file)
-            print(f"Visualization saved to {output_file}")
-        except Exception as e:
-            print(f"Error during visualization: {e}")
-            raise e
-
-    def save_graph_json(self, json_file):
-        """
-        Save detailed graph information to a JSON file.
-        """
-        try:
-            graph_data = {
-                "nodes": [],
-                "edges": []
-            }
-            for node in self.graph.nodes():
-                attrs = self.graph.nodes[node]
-                graph_data["nodes"].append({
-                    "id": node,
-                    "level": attrs.get("level", 0),
-                    "content": attrs.get("content", ""),
-                    "font_size": attrs.get("font_size", None),
-                    "is_underlined": attrs.get("is_underlined", False)
-                })
-            for edge in self.graph.edges():
-                graph_data["edges"].append({
-                    "from": edge[0],
-                    "to": edge[1]
-                })
-            with open(json_file, "w", encoding="utf-8") as f:
-                json.dump(graph_data, f, ensure_ascii=False, indent=4)
-            print(f"Graph details saved to JSON file: {json_file}")
-        except Exception as e:
-            print(f"Error saving graph JSON: {e}")
-            raise e
-
-def main(pdf_path, output_html_path, output_json_path):
-    try:
-        print("Starting PDF to Knowledge Graph conversion (V5)")
-        kg = PDFKnowledgeGraphV2()
-        elements = kg.extract_structured_text_from_pdf(pdf_path)
-        kg.build_knowledge_graph(elements, pdf_path)
-        kg.visualize(output_html_path)
-        kg.save_graph_json(output_json_path)
-        print("Knowledge graph conversion completed successfully!")
-        return 0
-    except Exception as e:
-        print(f"Error: {e}")
-        return 1
-
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
-        print("Usage: python pdf_to_kg_v2.py <pdf_path> <output_html_path> <output_json_path>")
-        sys.exit(1)
-    sys.exit(main(sys.argv[1], sys.argv[2], sys.argv[3]))
+    # Example usage
+    pdf_path = r"C:\Users\bilas\OneDrive\Documents\GENAI\my_web\sdg.pdf"  # Replace with your PDF file path
+    buffer_instance = buffer(pdf_path)
+    structured_text = buffer_instance.data
+    for item in structured_text:
+        print(item)
