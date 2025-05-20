@@ -76,8 +76,8 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="projects.html">Projects</a></li>
-                <li><a href="news.html">News</a></li>
-                <li><a href="attendance.html">Attendance</a></li>
+                <!-- <li><a href="news.html">News</a></li> -->
+                <!-- <li><a href="attendance.html">Attendance</a></li> -->
             </ul>
         </nav>
     </header>
@@ -88,7 +88,46 @@
             
             <div class="project-grid">
                 <div class="project-card featured-project">
+                    <h3>LLM-Compiler Based Agentic RAG System for Legal QA</h3>
+                    <p><em>13th Inter IIT Tech Meet, IIT Bombay (Nov 2024 - Dec 2024)</em></p>
+                    <ul>
+                        <li>Leveraged LLM-Compiler for parallel task execution, dynamic replanning, task-specific retrieval tools, and scalable task management with DAGs, reducing costs by decoupling reasoning from execution.</li>
+                        <li>Used a recursive character text splitter for long-context legal documents, integrated VoyageAI’s <strong>Voyage-Law2</strong> embedding model, and developed a custom auto-merging retriever with Cohere’s reranker to improve accuracy.</li>
+                        <li>Integrated Anthropic’s Claude models as a fallback for OpenAI API failures and developed a self fine-tuned beam retriever to improve robustness in retrieval workflows.</li>
+                        <li>Incorporated metadata like page numbers, paragraphs, document name, and in-context citations into prompts for reliable legal QA and citation.</li>
+                        <li>Achieved <strong>86%</strong> accuracy on the <strong>CUAD</strong> dataset (contract law) and <strong>84%</strong> accuracy on the <strong>AILA</strong> dataset (case law).</li>
+                    </ul>
+                    <a href="https://github.com/himanshu-skid19/Inter-IIT-13-Pathway-LegalQA-Chatbot" class="btn" target="_blank">View on GitHub</a>
+                </div>
+
+                <div class="project-card featured-project">
+                    <h3>Semantic Segmentation of Indian Roadways</h3>
+                    <p><em>13th Inter IIT Bootcamp (Oct 2024 - Nov 2024)</em></p>
+                    <ul>
+                        <li>Developed a <strong>semantic segmentation model</strong> using <strong>Mask2Former</strong> for diverse Indian roadway scenes under varying conditions.</li>
+                        <li>Utilized <strong>masked attention</strong>, <strong>multi-scale features</strong>, and <strong>dynamic mask prediction</strong> to enhance segmentation accuracy.</li>
+                        <li>Implemented a <strong>weighted image filtering approach</strong> based on <em>Class Diversity</em>, <em>Rare Class</em>, and <em>Image Count Scores</em> to select 1,500 high-value images from an initial dataset of 8,000.</li>
+                    </ul>
+                    <a href="https://github.com/MKSILVER13/Semantic-Segmentation-of-Indian-Roadways.git" class="btn" target="_blank">View on GitHub</a>
+                </div>
+
+
+                <div class="project-card featured-project">
+                    <h3>Hub Quest: Delivery Route Optimization</h3>
+                    <p><em>HackVerse 2025 (Apr 2025 - Apr 2025)</em></p>
+                    <ul>
+                        <li>Developed a <strong>delivery route optimization system</strong> to find efficient paths for package deliveries, considering hub-based routing and fuel constraints.</li>
+                        <li>Implemented a modified <strong>Floyd-Warshall algorithm</strong> for pre-calculating all-pairs shortest paths, storing complex state information including fuel usage, visited hubs, and delivered packages.</li>
+                        <li>Designed and implemented a <strong>heuristic search algorithm</strong> (<code>findOptimalPath</code>) using a stack-based approach with backtracking to construct and optimize delivery routes, maximizing deliveries within fuel limits.</li>
+                        <li>Managed vehicle <strong>fuel capacity constraints</strong> and refueling logic by integrating it into path state merging and validation processes.</li>
+                    </ul>
+                    <a href="https://github.com/MKSILVER13/hub_quest" class="btn" target="_blank">View on GitHub</a>
+                </div>
+
+
+                <div class="project-card featured-project">
                     <h3>PDF Knowledge Graph Generator</h3>
+                    <p><em>Personal project(under development)</em></p>
                     <p>This interactive tool converts PDF documents into navigable knowledge graphs, helping to visualize complex relationships between concepts. Upload any PDF document to generate a visual representation of its content structure and connections.</p>
                     <p><strong>Features:</strong></p>
                     <ul>
@@ -99,8 +138,10 @@
                     </ul>
                     <a href="pdf_generator.html" class="btn">Try it now</a>
                 </div>
+
                 
-                <div class="project-card">
+                
+                <!-- <div class="project-card">
                     <h3>Deep Learning Models</h3>
                     <p>Implementation of various deep learning architectures including CNNs, GANs, and Transformers for image processing, text generation, and other applications.</p>
                     <p>Projects include implementations from the Deep Learning Specialization coursework and custom models for specific applications.</p>
@@ -123,7 +164,7 @@
                     <h3>Inter IIT Tech Competition</h3>
                     <p>Collaborative projects developed for Inter IIT Technical competitions, featuring innovative solutions to challenging AI and machine learning problems.</p>
                     <a href="#" class="btn">Coming Soon</a>
-                </div>
+                </div> -->
 
                 <div class="project-card">
                     <h3>Attendance Management System</h3>
@@ -134,7 +175,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 My Website</p>
+        <p>&copy; 2025 Mayukh Kundu</p>
     </footer>
 </body>
 </html>

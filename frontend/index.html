@@ -3,29 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
+    <title>Mayukh Kundu - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4; /* Light background for the page */
+            color: #333;
+        }
+        header {
+            background: #333; /* Dark background for header */
+            color: #fff;
+            padding: 1.5rem 0;
+            text-align: center;
+            border-bottom: #0779e4 3px solid; /* Accent color */
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header nav ul {
+            padding: 0;
+            list-style: none;
+        }
+        header nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        header nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1.1rem;
+        }
+        main {
+            max-width: 960px; /* Limit content width */
+            margin: 20px auto 80px; /* Further increased bottom margin */
+            padding: 0 20px;
+        }
+        .about-section {
+            background: #fff; /* White background for sections */
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Subtle shadow */
+            /* display: flex; For image and text side-by-side - REMOVED */
+            /* align-items: center; - REMOVED */
+            /* gap: 20px; - REMOVED */
+        }
+        .about-text h2 {
+            color: #0779e4; /* Accent color for heading */
+            margin-top: 0;
+        }
+        .interests-section {
+            background: #fff;
+            padding: 25px;
+            margin-bottom: 130px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .interests-section h2 {
+            color: #0779e4;
+            margin-top: 0;
+        }
+        .interests-list {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .interests-list li {
+            background: #e7e7e7;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+            margin-top: 30px; /* Ensure space above footer */
+        }
+    </style>
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Mayukh Kundu</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="projects.html">Projects</a></li>
-                <li><a href="news.html">News</a></li>
-                <li><a href="attendance.html">Attendance</a></li>
+                <!-- <li><a href="news.html">News</a></li> -->
+                <!-- <li><a href="attendance.html">Attendance</a></li> -->
             </ul>
         </nav>
     </header>
     <main>
-        <section>
-            <h2>About Me</h2>
-            <p>Welcome to my website. Here you can find information about my projects and the latest news.</p>
+        <section class="about-section">
+            <div class="about-text">
+                <h2>About Me</h2>
+                <p>I am Mayukh Kundu, a second-year undergraduate student at IIT Guwahati. I am highly interested in all things tech, especially mathematics, generative AI, and their various applications. Sometimes I also like to talk about space and biology. I enjoy approaching problems in every field from a tech perspective. My goal is to research the intersection of AI, mathematics, and potentially biology. I have gained good experience in ML and AI concepts and am actively applying them through projects. Currently, I am learning more about advanced NLP, computer vision, generative models, and related topics.</p>
+                <p>You can find my work and contributions on <a href="https://github.com/MKSILVER13" target="_blank" style="color: #0779e4;">GitHub</a>.</p>
+            </div>
+        </section>
+
+        <section class="interests-section">
+            <h2>Key Interests</h2>
+            <ul class="interests-list">
+                <li>Mathematics</li>
+                <li>Generative AI</li>
+                <li>AI Applications</li>
+                <!-- <li>Space</li> -->
+                <li>Biology</li>
+                <li>Problem Solving with Tech</li>
+                <li>Machine Learning</li>
+                <li>Advanced NLP</li>
+                <li>Computer Vision</li>
+            </ul>
         </section>
     </main>
     <footer>
-        <p>&copy; 2023 My Website</p>
+        <p>&copy; 2025 Mayukh Kundu</p>
     </footer>
 </body>
 </html>
