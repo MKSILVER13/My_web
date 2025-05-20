@@ -300,7 +300,8 @@
       formData.append('pdf-file', pdfFile);
       showMessage(`Processing ${pdfFile.name}... Please wait, this may take a minute.`);
       
-      fetch('http://localhost:3000/upload', { // Connect to the backend running on port 3000
+      // fetch('YOUR_RENDER_BACKEND_URL/upload', { // Connect to the backend
+      fetch('https://my-web-thla.onrender.com/upload', { // Connect to the deployed backend on Render
         method: 'POST',
         body: formData
       })
