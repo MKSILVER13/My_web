@@ -3,7 +3,7 @@ const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
 const { exec } = require('child_process');
-const Graph = require('../models/PDF'); // MongoDB model
+const Graph = require('../models/PDF.JS'); // MongoDB model
 
 const router = express.Router();
 
